@@ -41,10 +41,10 @@
     "react-seat-picker"
   ],
   "peerDependencies": {
-    "prop-types": "^15.5.4",
-    "react": "^15.0.0 || ^16.0.0",
-    "react-dom": "^15.0.0 || ^16.0.0",
-    "react-tooltip": "^3.11.1"
+    "prop-types": "^15.8.1",
+    "react": "^15.0.0 || ^18.2.0",
+    "react-dom": "^15.0.0 || ^18.2.0",
+    "react-tooltip": "^5.20.0"
   },
   "config": {
     "commitizen": {
